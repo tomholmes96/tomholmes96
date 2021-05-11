@@ -1,4 +1,4 @@
-### My GitHub in a Nutshell
+### In a Nutshell
 
 I am an iOS Software Developer currently working at [Thirdfort](https://www.thirdfort.com). You can find out more about me and the projects I have worked on on my [Site](https://tomholmes96.github.io/a-webpage-about-me/).
 
