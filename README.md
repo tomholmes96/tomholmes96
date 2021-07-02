@@ -19,6 +19,3 @@ I am an iOS Software Developer currently working at [Thirdfort](https://www.thir
 <img width=50 src="Assets/js.svg"/>
 <img width=50 src="Assets/firebase.png"/>
 </p>
-
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomholmes96&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomholmes96&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------ | ------------- |
