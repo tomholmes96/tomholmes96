@@ -11,11 +11,11 @@ I am an iOS Software Developer currently working at [Thirdfort](https://www.thir
 <p align='left'>
 <img width=50 src="Assets/app-store.svg"/>
 <img width=50 src="Assets/swift.svg"/>
-<img width=50 src="Assets/Xcode_icon.png" />
-<img width=50 src="Assets/vs-code.png"/>
+<img width=50 src="Assets/xcode.svg" />
+<img width=50 src="Assets/visual-studio-code-2019.svg"/>
 <img width=50 src="Assets/python.svg"/>
 <img width=50 src="Assets/html.svg"/>
 <img width=50 src="Assets/css-3.svg"/>
 <img width=50 src="Assets/js.svg"/>
-<img width=50 src="Assets/firebase.png"/>
+<img width=50 src="Assets/firebase.svg"/>
 </p>
