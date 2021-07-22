@@ -20,3 +20,5 @@ I am an iOS Software Developer currently working at [Thirdfort](https://www.thir
 <img width=50 src="Assets/js.svg"/>
 <img width=50 src="Assets/firebase.svg"/>
 </p>
+
+![](https://activity-graph.herokuapp.com/graph?username=tomholmes96&theme=react-dark&area=true)
