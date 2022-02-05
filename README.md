@@ -4,7 +4,7 @@ I am an iOS Software Developer currently working at [Thirdfort](https://www.thir
 
 | Project       | Description                         |
 |---------------|-------------------------------------|
-| [AudioVisualUI](https://github.com/tommy-holmes/AudioVisualUI) | A SwiftUI wrapper for AVKit. |
+| [AudioVisualUI](https://github.com/tommy-holmes/AudioVisualUI) | A SwiftUI implementation for a MediaBar similar to that found in music apps like Apple Music and Spotify. |
 
 - 🔭 I’m currently working on the Thirdfort iOS app
 - 🌱 I’m currently learning a lot of SwiftUI
