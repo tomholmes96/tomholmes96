@@ -1,10 +1,13 @@
 ### In a Nutshell
 
-I am an iOS Software Developer currently working at [Thirdfort](https://www.thirdfort.com). You can find out more about me and the projects I have worked on on my [Site](https://tomholmes96.github.io/a-webpage-about-me/).
+I am an iOS Software Developer currently working at [Thirdfort](https://www.thirdfort.com). You can find out more about me on my [Site](https://tomholmes96.github.io/a-webpage-about-me/) and below are some of the projects I am currently working on.
+
+| Project       | Description                         |
+|---------------|-------------------------------------|
+| [AudioVisualUI](https://github.com/tommy-holmes/AudioVisualUI) | A SwiftUI implementation for AVKit. |
 
 - 🔭 I’m currently working on the Thirdfort iOS app
-- 👨🏼‍💻 Most of my older iOS repos are still on my [GitLab](https://gitlab.com/tommy_holmes_)
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning a lot of SwiftUI
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tomholmes96/)
 
 <h4 align='left'>Languages and Tools</h4>
