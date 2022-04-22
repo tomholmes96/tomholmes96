@@ -1,6 +1,6 @@
 ### In a Nutshell
 
-I am an iOS Software Developer currently working at [Thirdfort](https://www.thirdfort.com). You can find out more about me on my [Site](https://tomholmes96.github.io/a-webpage-about-me/) and below are some of the projects I am currently working on.
+I am an iOS Software Developer currently working at [Thirdfort](https://www.thirdfort.com). You can find out more about me on my [Site](https://tommy-holmes.github.io/a-webpage-about-me/) and below are some of the projects I am currently working on.
 
 | Project       | Description                         | Status     |
 |---------------|-------------------------------------|------------|
