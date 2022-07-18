@@ -4,7 +4,6 @@ I am an iOS Software Developer currently working at [Thirdfort](https://www.thir
 
 | Project       | Description                         | Status     |
 |---------------|-------------------------------------|------------|
-| [DetentSheetPresentationController](https://github.com/tommy-holmes/DetentSheetPresentationController) | A backport of 's `UISheetPresentationController` to iOS 13+ and a wrapper for SwiftUI. | In progress |
 | [AudioVisualUI](https://github.com/tommy-holmes/AudioVisualUI) | A SwiftUI implementation for a "Now Playing" bar similar to that found in music apps like Apple Music and Spotify. | In progress |
 
 - 🔭 I’m currently working on the Thirdfort iOS app
