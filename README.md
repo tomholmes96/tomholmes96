@@ -5,7 +5,7 @@ I am an iOS Software Developer currently between full time projects. You can fin
 | Project       | Description                         | Status     |
 |---------------|-------------------------------------|------------|
 | [WoDBodDaily](https://wodboddaily.com/) | A service for subscribing to weekly workouts via email. | Live |
-| ASCII Images | A SwiftUI app for generating images made of ASCII charaters. | In-progress |
+| [ASCII Images](https://github.com/tommy-holmes/ASCII-Photo-iOS-Lite) | A SwiftUI app for generating images made of ASCII charaters. | In-progress |
 
 - 🔭 I’m currently working on an ASCII image generator for Apple platforms (primarily iOS). 
 - 🌱 I’m currently learning a lot of SwiftUI
