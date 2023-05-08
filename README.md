@@ -4,6 +4,7 @@ I am an iOS Software Developer currently between full time projects. You can fin
 
 | Project       | Description                         | Status     |
 |---------------|-------------------------------------|------------|
+| [Athena](https://theathena.app/) | A native  app for ChatGPT. | Live |
 | [WoDBodDaily](https://wodboddaily.com/) | A service for subscribing to weekly workouts via email. | Live |
 | [ASCII Images](https://github.com/tommy-holmes/ASCII-Photo-iOS-Lite) | A SwiftUI app for generating images made of ASCII charaters. | In-progress |
 
